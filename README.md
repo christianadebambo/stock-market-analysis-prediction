@@ -2,7 +2,7 @@
 
 Analyze and forecast the stock market using GRU Networks
 
-Stock market dataset (2006 - 2018) of [Amazon](www.amazon.com), [Google](www.google.com), [Microsoft](www.microsoft.com) & [IBM](www.ibm.com)
+Stock market dataset (2006 - 2018) of [Amazon](https://www.amazon.com), [Google](https://www.google.com), [Microsoft](https://www.microsoft.com) & [IBM](https://www.ibm.com)
 
 ## Project structure
 
