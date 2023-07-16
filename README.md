@@ -4,7 +4,7 @@ This project analyzes stock market data and utilizes a GRU (Gated Recurrent Unit
 
 Stock market dataset (2006 - 2018) of [Amazon](https://www.amazon.com), [Google](https://www.google.com), [Microsoft](https://www.microsoft.com) & [IBM](https://www.ibm.com)
 
-### Code Overview
+## Code Overview
 
 ### EDA (Exploratory Data Analysis)
 
